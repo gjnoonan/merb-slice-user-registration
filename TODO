@@ -1,0 +1,15 @@
+TODO:
+
+- Fix MerbSliceUserRegistration.description and MerbSliceUserRegistration.version
+- Fix LICENSE with your name
+- Fix Rakefile with your name and contact info
+- Add your code to lib/merb-slice-user-registration.rb
+- Add your Merb rake tasks to lib/merb-slice-user-registration/merbtasks.rb
+
+Remove anything that you don't need:
+
+- app/controllers/main.rb MerbSliceUserRegistration::Main controller
+- app/views/layout/merb-slice-user-registration.html.erb
+- spec/controllers/main_spec.rb controller specs
+- public/* any public files
+- stubs/* any stub files
